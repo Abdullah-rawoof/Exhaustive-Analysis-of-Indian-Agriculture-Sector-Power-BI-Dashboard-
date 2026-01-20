@@ -62,7 +62,7 @@ The dashboard allows users to interactively explore agricultural performance acr
 ## 🪟 Dashboard Preview
 
 ```markdown
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 
 
