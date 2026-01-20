@@ -14,6 +14,12 @@ The dashboard allows users to interactively explore agricultural performance acr
 
 ---
 
+## 🪟 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
+---
+
 ## 🎯 Objectives
 
 - Analyze crop production trends across years  
@@ -58,10 +64,6 @@ The dashboard allows users to interactively explore agricultural performance acr
 - **Use slicers and visuals to explore insights interactively**
 
 ---
-
-## 🪟 Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
 
 
 
